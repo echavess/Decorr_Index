@@ -8,7 +8,7 @@ Moving window de-correlation for Characteristic Repeating Earthquakes (CREs)
 ![alt text](https://github.com/echavess/Decorr_Index/blob/master/Decorrelation_Index_Bp_2_20.png)
 
 
-* How to run the code? :
+* How to run the code? (DecorrIndx.py) :
 
     ```
     # ----------------I N P U T   P A R A M S----------------------- ###
